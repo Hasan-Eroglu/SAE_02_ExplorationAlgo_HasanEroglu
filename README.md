@@ -1,18 +1,18 @@
-\# SAÉ 2.02 – Exploration algorithmique d'un problème
+# SAÉ 2.02 – Exploration algorithmique d'un problème
 
-\## Recherche de plus court chemin dans un graphe
+## Recherche de plus court chemin dans un graphe
 
 
 
-\## Membres du binôme
+## Membres du binôme
 
 \- Eroglu Hasan (je suis seul)
 
 
 
-\# Structure du projet
+# Structure du projet
 
-\## Dossier
+## Dossier
 
 \- 'SAE\_ALGO/src/' : contient le code source Java
 
@@ -24,7 +24,7 @@
 
 
 
-\## Classe Java
+## Classe Java
 
 \-Arc.java : représente un arc orienté avec un poids positif vers un nœud cible.
 
@@ -48,7 +48,7 @@
 
 
 
-\## Génération du fichier JAR
+## Génération du fichier JAR
 
 Avec IntelliJ IDEA
 
@@ -66,13 +66,13 @@ Build en haut → Build Artifacts → Build
 
 Le fichier JAR exécutable sera alors généré.
 
-\## Lancer les tests unitaires
+## Lancer les tests unitaires
 
 Dans IntelliJ : clic droit sur le dossier test → Run All Tests
 
 
 
-\## Lancer le programme
+## Lancer le programme
 
 Depuis un terminal :
 
@@ -82,7 +82,7 @@ java -jar sae\_algo.jar <id\_depart> <id\_arrivee>
 
 
 
-\## Exemple
+## Exemple
 
 java -jar sae\_algo.jar NYSIV0 NYJUI0
 
@@ -90,7 +90,7 @@ java -jar sae\_algo.jar NYSIV0 NYJUI0
 
 
 
-\## Objectif
+## Objectif
 
 
 
@@ -98,7 +98,7 @@ Comparer les performances des algorithmes de Dijkstra et Bellman-Ford sur le ré
 
 
 
-\## Technologies utilisées
+## Technologies utilisées
 
 Java
 
